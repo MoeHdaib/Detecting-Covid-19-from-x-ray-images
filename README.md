@@ -2,6 +2,7 @@
 train_covid19.py is done by Adrian Rosebrock 
 
 Read me:
+
 1-	Put all the code files in the same directory.
 
 2-	First, you need to train the model by executing the train_covid19.py script
