@@ -5,7 +5,7 @@ Read me:
 
 1-	Put all the code files in the same directory.
 
-2-	First, you need to train the model by executing the train_covid19.py script with “python train.py --dataset dataset”
+2-	First, you need to train the model by executing the train_covid19.py script with “python train_covid19.py --dataset dataset”
     
 3-	After you execute it successfully (it will take some time) a new covid19.model should appear in the directory
 
