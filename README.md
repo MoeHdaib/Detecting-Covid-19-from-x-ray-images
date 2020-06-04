@@ -22,6 +22,10 @@
 
 1. Connect to your Raspberry Pi remotely and then execute the **GUI_code.py**.
 
+
+-----
+
+
 > If you are having problems downloading tensorflow and keras on your Raspberry Pi device, try follow my guide [here](https://www.hackster.io/moe-hdaib/detecting-covid-19-from-x-ray-images-d4fd38).
 
 
