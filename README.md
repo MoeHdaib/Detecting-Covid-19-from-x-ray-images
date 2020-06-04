@@ -23,7 +23,11 @@ Read me:
 > If you are having problems downloading tensorflow and keras on your Raspberry Pi device, try follow my guide [here](https://www.hackster.io/moe-hdaib/detecting-covid-19-from-x-ray-images-d4fd38).
 
 
-![alt text][logo]
+![Keras][logo]
 
-[logo]: https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg "Logo Title Text 2"
+[logo]: https://img.stackshare.io/service/5601/keras.png "Logo Title Text 2"
+
+![tensor][mk]
+
+[mk]: https://yt3.ggpht.com/a/AATXAJzP93MSG9XolLu_LMKikohp5t_eHlt-QbIOYQ=s900-c-k-c0xffffffff-no-rj-mo "Logo Title Text 2"
 
