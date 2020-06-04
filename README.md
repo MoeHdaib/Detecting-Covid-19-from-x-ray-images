@@ -1,7 +1,7 @@
 # Project Demo | Detecting Covid-19 from x-ray images:
 * train_covid19.py is done by [Adrian Rosebrock](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/).
 
-* X-ray images dataset from Dr. Joseph Cohen [GitHub](https://github.com/ieee8023/covid-chestxray-dataset)
+* X-ray images datasets from Dr. Joseph Cohen [GitHub](https://github.com/ieee8023/covid-chestxray-dataset)
 
 
 -------
