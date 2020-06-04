@@ -1,0 +1,52 @@
+//Declaring the LED pins
+int ledRed = D3;
+int ledBlue = D4;
+
+
+
+void setup() {
+    pinMode(ledRed, OUTPUT);
+    digitalWrite(ledRed, LOW);
+    
+    pinMode(ledBlue, OUTPUT);
+    digitalWrite(ledBlue, LOW);
+    
+    // exposing the function to the cloud
+    Particle.function("covidtest", result);
+    
+    
+}
+
+//Function that take a string as an argument and if its 1 (test positive), power on the red LED
+//and if its 0 (test negative), power on the blue LED
+int result(String test){
+    if(test == "1")
+    {
+        digitalWrite(ledRed, HIGH);
+        delay(1000);
+        digitalWrite(ledRed, LOW);
+        delay(1000);
+        digitalWrite(ledRed, HIGH);
+        delay(1000);
+        digitalWrite(ledRed, LOW);
+        return 1;
+    }
+    
+    else
+    {
+        digitalWrite(ledBlue, HIGH);
+        delay(1000);
+        digitalWrite(ledBlue, LOW);
+        delay(1000);
+        digitalWrite(ledBlue, HIGH);
+        delay(1000);
+        digitalWrite(ledBlue, LOW);
+        
+        return 0;
+    }
+}
+
+
+
+void loop() {
+}
