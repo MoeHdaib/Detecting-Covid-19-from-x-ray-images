@@ -14,9 +14,9 @@
     
 1. After you execute it successfully (it will take some time) a new **covid19.model** file should appear in the directory file.
 
-1. Flash the **ParticleCode** file to your particle device.
+1. Flash the **Particle_code** file to your particle device.
 
-1. Open the **GUI-code.py** file and Replace **your-device-ID-goes-here** with your **actual device ID** and replace **your-access-token-goes-here** with your **actual access token**, in line **52** and **57**.
+1. Open the **GUI_code.py** file and Replace **your-device-ID-goes-here** with your **actual device ID** and replace **your-access-token-goes-here** with your **actual access token**, in line **52** and **57**.
 
 1. Transfer the **GUI_code.py** and the **covid19.model** file to your Raspberry Pi device.
 
