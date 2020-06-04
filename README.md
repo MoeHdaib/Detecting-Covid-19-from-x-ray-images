@@ -1,5 +1,6 @@
 # ProjectDemoExplain
-train_covid19.py is done by Adrian Rosebrock 
+train_covid19.py is done by Adrian Rosebrock.
+X-ray images dataset from Dr. Joseph Cohen GitHub : https://github.com/ieee8023/covid-chestxray-dataset
 
 Read me:
 
@@ -16,3 +17,5 @@ Read me:
 6-	Transfer the GUI_code.py and the covid19.model file to your Raspberry Pi device
 
 7-	Connect to your Raspberry Pi remotely and then execute the GUI_code.py
+
+
