@@ -7,7 +7,7 @@
 -------
 #### Notes:
 
-1. Put all the code files in the same directory.
+1. Put all the code files and the dataset file in the same directory.
 
 1. First, you need to train the model by executing the **train_covid19.py** script with `python train_covid19.py --dataset dataset`
 (after you already downloaded tensorflow and keras on your computer).
