@@ -8,8 +8,9 @@ Read me:
 1-	Put all the code files in the same directory.
 
 2-	First, you need to train the model by executing the train_covid19.py script with “python train_covid19.py --dataset dataset”
+(after you already downloaded tensorflow and keras on your computer)
     
-3-	After you execute it successfully (it will take some time) a new covid19.model file should appear in the directory
+3-	After you execute it successfully (it will take some time) a new covid19.model file should appear in the directory file
 
 4-	Flash the ParticleCode file to your particle device
 
