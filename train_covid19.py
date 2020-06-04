@@ -1,4 +1,4 @@
-# USAGE
+# Code by Adrian Rosebrock 
 # python train.py --dataset dataset
 
 # import the necessary packages
